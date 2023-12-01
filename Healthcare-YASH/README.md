@@ -63,7 +63,9 @@ open terminal in this directory and run the following command to start flask ser
 
 ## Team
 
-- YAHWANTH H N
-- CHANDANA R
-- NIKHIL
+-Yashwanth H N 
+-Chandana R 
+-Arpita C 
+-B Shree Nikhil
+-Likhith
 
